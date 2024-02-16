@@ -51,6 +51,7 @@ body {
 }
 
 .msgContainer{
+    width: 310px;
     color: #fff;
     margin-top: 25px;
 }
